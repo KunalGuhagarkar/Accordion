@@ -4,6 +4,10 @@ A simple FAQ accordion component built with **HTML**, **CSS**, and **vanilla Jav
 
 This project is a solution to the [Accordion](https://roadmap.sh/projects/accordion) beginner frontend project from [roadmap.sh](https://roadmap.sh).
 
+## Preview
+
+![Accordion Project Preview Image](./src/images/preview.png)
+
 ## Features
 
 - Clean, minimal FAQ layout with a heading, question list, and footer
