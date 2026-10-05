@@ -36,11 +36,11 @@ No build step is needed.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/accordion.git
+    git clone https://github.com/KunalGuhagarkar/Accordion.git
     ```
 2. Open the project folder:
     ```bash
-    cd accordion
+    cd Accordion
     ```
 3. Open `index.html` in your browser (or use a tool like the VS Code Live Server extension).
 
